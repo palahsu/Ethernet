@@ -1,6 +1,7 @@
 # Ethernet
-Ethernet Connection Enable And Disable On PC. Enable and Disable Your Internet Connection Only One Click!!
-Adapter Option Enable or Disable Ethernet Connection.
+Ethernet Connection Enable And Disable On PC. You Can (Enable/Disable) Your Internet Connection on Windows. 
+It's Working Directly (Network & Internet Setting) From your Adapter Option.
+Easily, Enable or Disable Ethernet Connection.
 
 For any kind of help, support, payment, suggetion and request ask me on Telegram:
 
