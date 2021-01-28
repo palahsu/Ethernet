@@ -10,7 +10,7 @@ Easily, Enable or Disable Ethernet Connection.
 - Enable Option
 - Disable Option
 
-For any kind of help, support, payment, suggetion and request ask me on Telegram:
+# For any kind of help, support, payment, suggetion and request ask me on Telegram:
 
 <a href="https://t.me/linux_repo"><img src="https://img.shields.io/badge/Telegram-Group%20Telegram%20Join-blue.svg?logo=telegram"></a>
 
