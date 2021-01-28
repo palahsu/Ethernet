@@ -3,6 +3,13 @@ Ethernet Connection Enable And Disable On PC. You Can (Enable/Disable) Your Inte
 It's Working Directly (Network & Internet Setting) From your Adapter Option.
 Easily, Enable or Disable Ethernet Connection.
 
+# Support
+- Windows 7, 8, 10
+
+# Features
+- Enable Option
+- Disable Option
+
 For any kind of help, support, payment, suggetion and request ask me on Telegram:
 
 <a href="https://t.me/linux_repo"><img src="https://img.shields.io/badge/Telegram-Group%20Telegram%20Join-blue.svg?logo=telegram"></a>
