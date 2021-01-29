@@ -11,7 +11,7 @@ Easily, Enable or Disable Ethernet Connection.
 - Disable Option
 - Exit Option
 
-More Feature Coming Soon!
+More Feature & GUI Coming Soon!
 
 For any kind of help, support, payment, suggetion and request ask me on Gmail / Telegram:
 
