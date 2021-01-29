@@ -6,7 +6,6 @@ Easily, Enable or Disable (Ethernet/Internet) Connection.
 # Support
 - Windows 7, 8, 10
 - Linux
-- Unix
 
 # Features
 - Enable Option
