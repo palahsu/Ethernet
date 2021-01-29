@@ -12,6 +12,7 @@ Easily, Enable or Disable Ethernet Connection.
 - Disable Option
 - Exit Option
 
+Just Download & Run!
 More Feature & Exe & GUI Coming Soon!
 
 For any kind of help, support, payment, suggetion and request ask me on Gmail / Telegram:
