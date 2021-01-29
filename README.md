@@ -14,7 +14,7 @@ Easily, Enable or Disable Ethernet Connection.
 - Reset Option
 - Undo Option
 
-Just Download & Run.
+Just Download & Run!
 
 More Feature & Exe & GUI Coming Soon!
 
