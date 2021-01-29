@@ -1,5 +1,5 @@
 # Ethernet
-Ethernet 🌐 Internet Connection Enable And Disable in PC. You Can (Enable/Disable) Your Internet Connection on Windows. 
+Ethernet 🌐 Internet Connection 📶 Enable And Disable in PC. You Can (Enable/Disable) Your Internet Connection on Windows. 
 It's Working Directly (Network & Internet Setting) From your Adapter Option.
 Easily, Enable or Disable Ethernet Connection.
 
