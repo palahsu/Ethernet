@@ -10,9 +10,9 @@ Easily, Enable or Disable Ethernet Connection.
 # Features
 - Enable Option
 - Disable Option
-- Exit Option
 - Reset Option
 - Undo Option
+- Exit Option
 
 Just Download & Run.
 
