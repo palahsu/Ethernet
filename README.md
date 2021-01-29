@@ -5,7 +5,7 @@ Easily, Enable or Disable Ethernet Connection.
 
 # Support
 - Windows 7, 8, 10
-- Linux (Ubuntu)
+- Linux
 
 # Features
 - Enable Option
