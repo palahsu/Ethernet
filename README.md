@@ -14,7 +14,6 @@ Easily, Enable or Disable (Ethernet/Internet) Connection And More Network Settin
 - Reset Option
 - Undo Option
 - All TCP/IP/DHCP Information
-
 - Exit Option
 
 Just Download & Run All.
