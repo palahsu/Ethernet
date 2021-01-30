@@ -17,7 +17,7 @@ Easily, Enable or Disable (Ethernet/Internet) Connection.
 
 - Exit Option
 
-Just Download & Run.
+Just Download & Run All.
 
 GUI Coming Soon!
 
