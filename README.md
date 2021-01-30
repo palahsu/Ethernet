@@ -10,8 +10,11 @@ Easily, Enable or Disable (Ethernet/Internet) Connection.
 # Features
 - Enable Option
 - Disable Option
+- Renew Option
 - Reset Option
 - Undo Option
+- All TCP/IP/DHCP Information
+
 - Exit Option
 
 Just Download & Run.
