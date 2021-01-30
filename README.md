@@ -19,7 +19,7 @@ Easily, Enable or Disable (Ethernet/Internet) Connection.
 
 Just Download & Run All.
 
-GUI Coming Soon!
+GUI Coming Soon! Thanks
 
 For any kind of help, support, payment, suggestion and request ask me on Gmail / Telegram:
 
