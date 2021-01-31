@@ -24,7 +24,6 @@ pause
 netsh winsock reset
 pause
 
-
 :start
 @echo.
 @echo                 INFORMATION
