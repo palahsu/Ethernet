@@ -14,7 +14,7 @@ set /p press= Press:
 if '%Press%'=='1' goto :press1
 if '%Press%'=='2' goto :press2
 if '%Press%'=='3' goto :press3
-echo "%Press%" is not a valid option. Please try again. 
+echo "%Press%" is not a valid option. Please, try again. 
 echo
 
 goto start
