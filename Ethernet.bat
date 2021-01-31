@@ -2,9 +2,9 @@ echo off
 cls 
 :start
 echo Ethernet
-echo Do you want to enable? 
-echo Do you want to disable?
-echo Do you want to exit?
+echo 1. Do you want to enable? 
+echo 2. Do you want to disable?
+echo 3. Do you want to exit?
 
 echo Press: 1
 echo Press: 2
