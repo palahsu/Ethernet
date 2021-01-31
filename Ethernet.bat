@@ -5,6 +5,7 @@ echo Ethernet
 echo Do you want to enable? 
 echo Do you want to disable?
 echo Do you want to exit?
+
 echo Press: 1
 echo Press: 2
 echo Press: 3
