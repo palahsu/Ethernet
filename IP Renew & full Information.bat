@@ -27,7 +27,7 @@ pause
 
 :start
 @echo.
-@echo                          IP INFORMATION
+@echo                 INFORMATION
 
 @ipconfig /all | find "IP Address"
 @ipconfig /all | find "IPv4 Address"
@@ -41,4 +41,3 @@ pause
 @ping 127.0.0.1
 @echo.
 @pause
-
